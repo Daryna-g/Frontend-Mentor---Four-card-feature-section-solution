@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-rAN4BR9s1r)
-- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Recipe-page/)
+- Solution URL: [Four card feature section solution](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-XyL5FPyv62)
+- Live Site URL: [Four card feature section Live Site](https://daryna-g.github.io/Frontend-Mentor---Four-card-feature-section-solution/)
 
 ## My process
 
